@@ -1,8 +1,8 @@
 title: "Marco Favino"
 description: "Computational Geophysics"
-#theme: minima
+theme: minima
 
-remote_theme: "mmistakes/minimal-mistakes"
+#remote_theme: "mmistakes/minimal-mistakes"
 #minimal_mistakes_skin: "contrast"
 
 #locale: "en-US"
