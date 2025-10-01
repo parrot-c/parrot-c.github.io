@@ -1,3 +1,50 @@
+#title: "Marco Favino"
+#description: "Computational Geophysics"
+#theme: minima
+
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "contrast"
+
+locale: "en-US"
 title: "Marco Favino"
-description: "Computational Geophysics"
-theme: minima
+name: "Marco Favino"
+description: "Computational Scientist"
+url: "https://USERNAME.github.io"   # cambia USERNAME
+baseurl: ""                         # "" per sito utente, "/NOME-REPO" per project site
+repository: USERNAME/USERNAME.github.io
+
+author:
+  name: "Marco Favino"
+  avatar: /assets/images/profile.jpg
+  bio: "Computational geophysics, PDEs, fractured media."
+  location: "Switzerland"
+  email: "favinom@usi.ch"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/USERNAME"
+
+include:
+  - _pages
+
+markdown: kramdown
+highlighter: rouge
+
+# Plugin supportati da GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-gist
+
+# Paginazione (se usi blog)
+paginate: 6
+paginate_path: /page:num/
+
+# Opzionali
+defaults:
+  - scope: { path: "" }
+    values:
+      layout: single
+      author_profile: true
