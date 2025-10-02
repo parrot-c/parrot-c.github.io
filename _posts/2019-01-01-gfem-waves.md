@@ -3,8 +3,9 @@ layout: single
 title:  "Transient wave propagation in heterogeneous media using a Generalized Finite Element Method"
 # date:   2022-09-17 00:05:13 +0200
 # categories: jekyll update
-image:
-  teaser: solution-307.jpg
+#header:
+#  teaser: solution-307.jpg
+teaserNoGrid: solution-307.jpg
 ---
 
 Spectral element method (SEM) is usually employed to simulate wave propagation
