@@ -3,7 +3,8 @@ layout: single
 title:  "Flow and transport in fractured porous media"
 # date:   2022-09-17 00:05:13 +0200
 # categories: jekyll update
-teaser: pressure_small_features_new-eps-converted-to.png
+image:
+  teaser: pressure_small_features_new-eps-converted-to.png
 ---
 
 
