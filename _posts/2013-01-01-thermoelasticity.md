@@ -3,7 +3,8 @@ layout: single
 title:  "Thermoelasticity for a cooktop"
 # date:   2022-09-17 00:05:13 +0200
 # categories: jekyll update
-teaser: cooktop.png
+image:
+  teaser: cooktop.png
 ---
 
 
