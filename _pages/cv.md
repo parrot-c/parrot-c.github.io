@@ -8,9 +8,31 @@ author_profile: true
 ## Employments
 
 <p style="text-align:left;">
+  <b> Lecturer </b>
+    <span style="float:right;">
+        <b> July 2023 - present </b>
+    </span><br>
+Faculty of Mathematics and Computer Science<br>
+FernUNI Schweiz
+</p>
+
+* * *
+
+<p style="text-align:left;">
+  <b> Lecturer and Scientific Collaborator </b>
+    <span style="float:right;">
+        <b> Jun. 2023 - present </b>
+    </span><br>
+Euler Institute<br>
+Università della  Svizzera italiana
+</p>
+
+* * *
+
+<p style="text-align:left;">
   <b> SNSF Ambizione Fellow </b>
     <span style="float:right;">
-        <b> Nov. 2018 - present </b>
+        <b> Nov. 2018 - Apr. 2023 </b>
     </span><br>
 Institute of Earth Sciences<br>
 University of Lausanne
@@ -25,19 +47,19 @@ University of Lausanne
     </span><br>
 Institute of Geochemistry and Petrology<br>
 ETH Zurich<br>
-Advisor: Prof. Thomas Driesner
+<!-- Advisor: Prof. Thomas Driesner -->
 </p>
 
 * * *
 
 <p style="text-align:left;">
-  <b> Postdoctoral Researcher (Visiting) </b>
+  <b> Postdoctoral Researcher <!--(Visiting)--> </b>
     <span style="float:right;">
         <b> Sept. 2016 - Sept. 2017 </b>
     </span><br>
 Institute of Earth Sciences<br>
 University of Lausanne<br>
-Advisor: Prof. Klaus Holliger
+<!-- Advisor: Prof. Klaus Holliger -->
 </p>
 
 * * *
@@ -49,7 +71,7 @@ Advisor: Prof. Klaus Holliger
     </span><br>
 Center for Computational Medicine in Cardiology<br>
 Cardiocentro Ticino & Universit&agrave; della Svizzera italiana<br>
-Advisors: Prof. Angelo Auricchio and Prof. Rolf Krause
+<!-- Advisors: Prof. Angelo Auricchio and Prof. Rolf Krause -->
 </p>
 
 * * *
@@ -61,7 +83,7 @@ Advisors: Prof. Angelo Auricchio and Prof. Rolf Krause
     </span><br>
 Institute of Computational Science<br>
 Universit&agrave; della Svizzera italiana<br>
-Advisor: Prof. Rolf Krause
+<!-- Advisor: Prof. Rolf Krause -->
 </p>
 
 ## Education
@@ -90,6 +112,7 @@ Thesis: <em>Mathematical modeling and numerical <br> simulation of third generat
 Advisor: Prof. Riccardo Sacco
 </p>
 
+<!--
 * * *
 
 <p style="text-align:left;">
@@ -101,3 +124,4 @@ Politecnico di Mlano<br>
 Thesis: <em>Simulazione numerica di sistemi dinamici caotici e non caotici</em><br>
 Advisor: Prof. Raffaella Pavani
 </p>
+-->
